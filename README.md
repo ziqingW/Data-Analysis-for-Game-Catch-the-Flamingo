@@ -17,7 +17,7 @@ There are two major parts of data:
 1. Game related data,  
 2. Conversation data between users or teams.  
 
-The detailed explanation of each file and every step of data processing and analyzing can be found in the file of *Technical_appendix.pdf*.  
+The detailed explanation of each file and every step of data processing and analysis can be found in the file of *Technical_appendix.pdf*.  
 
 **Report**  
 The full report can be seen in the file *Final_report.pdf*.

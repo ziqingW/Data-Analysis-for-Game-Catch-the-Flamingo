@@ -2,7 +2,7 @@
 **Introduction**  
 The Capstone Project for Big Data Specialization in Coursera.  
 
-In this culminating project, I built a big data ecosystem using machine learning and data analysis tools to analyze the data set simulating big data generated from a large number of users who are playing an imaginary game "Catch the Pink Flamingo". The final results were reported as slides to the imaginary high-level officers of the game developer company. Several solutions were recommended as to increase game revenue.  
+In this culminating project, I built a big data ecosystem using machine learning and data analysis tools to analyze the data sets generated from an imaginary massively multiplayer online game, "Catch the Pink Flamingo". The final results were reported as slides to the imaginary high-level officers of the game developer company. Several solutions were recommended as to increase game revenue.  
 
 The whole report includes a series of steps as data acquiring, exploring, preparing, analyzing, and reporting. 
 

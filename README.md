@@ -1,4 +1,4 @@
-# Data Analysis for Game: Catch the Flamingo
+# Data Analysis for MMO Game: Catch the Flamingo
 **Introduction**  
 The Capstone Project for Big Data Specialization in Coursera.  
 
